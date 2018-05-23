@@ -1,0 +1,1 @@
+<resources><declare-styleable name="custom"><attr name="test" format="string" /><attr name="number" format="integer" /></declare-styleable></resources>
